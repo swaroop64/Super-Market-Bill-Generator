@@ -1,6 +1,6 @@
 # Super-Market-Bill-Generator
 ### Overview
-The script is a Python-based program designed to simulate a billing system for a supermarket. It allows a user to select items, specify quantities, and generate a detailed bill including GST. The system is interactive, providing prompts for user inputs and displaying appropriate responses based on those inputs.
+The script is a Python-based program designed to simulate a billing system for a supermarket. It allows users to select items, specify quantities, and generate a detailed bill including GST. The system is interactive, providing prompts for user inputs and displaying appropriate responses based on those inputs.
 
 ### Key Features
 1. **User Interaction**: The script prompts the user for their name, item choices, and quantities.
@@ -58,3 +58,7 @@ The script is a Python-based program designed to simulate a billing system for a
 6. The script prints a detailed bill including itemized costs, total amount, GST, and final amount.
 
 This script is a simple and effective way to simulate a supermarket billing system, providing a hands-on way to understand basic concepts in programming, user interaction, and billing processes.
+
+--
+
+Feel free to explore, modify, and improve the project. Contributions are welcome!

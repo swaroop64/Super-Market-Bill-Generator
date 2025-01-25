@@ -59,6 +59,6 @@ The script is a Python-based program designed to simulate a billing system for a
 
 This script is a simple and effective way to simulate a supermarket billing system, providing a hands-on way to understand basic concepts in programming, user interaction, and billing processes.
 
---
+---
 
 Feel free to explore, modify, and improve the project. Contributions are welcome!
